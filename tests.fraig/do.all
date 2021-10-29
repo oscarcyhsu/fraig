@@ -1,0 +1,461 @@
+cirr -replace ISCAS85/C1355.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace ISCAS85/C17.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace ISCAS85/C1908.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace ISCAS85/C3540.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace ISCAS85/C432.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace ISCAS85/C432_r.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace ISCAS85/C499.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace ISCAS85/C499_r.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace ISCAS85/C5315.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace ISCAS85/C6288.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace ISCAS85/C7552.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace ISCAS85/C880.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace cirp-n.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace opt01.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace opt02.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace opt03.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace opt04.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace opt05.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace opt06.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace sim01.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace sim02.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace sim03.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace sim04.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace sim05.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace sim06.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace sim07.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace sim08.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace sim09.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace sim10.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace sim11.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace sim12.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace sim13.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace sim14.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace sim15.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace strash01.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace strash02.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace strash03.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace strash04.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace strash05.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace strash06.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace strash07.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace strash08.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace strash09.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace strash10.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace test1.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+cirr -replace test2.aag
+cirp
+cirp -PI
+cirp -PO
+cirp -fl
+cirp -n
+cirw
+cirg 5
+cirg 1 -fanout 10
+cirg 10 -fanin 10
+q -f

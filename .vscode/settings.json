@@ -1,0 +1,32 @@
+{
+   "files.associations": {
+      "iosfwd": "cpp",
+      "__functional_base": "cpp",
+      "__functional_03": "cpp",
+      "functional": "cpp",
+      "locale": "cpp",
+      "__locale": "cpp",
+      "iostream": "cpp",
+      "ostream": "cpp",
+      "bitset": "cpp",
+      "iomanip": "cpp",
+      "__bit_reference": "cpp",
+      "__split_buffer": "cpp",
+      "__tree": "cpp",
+      "deque": "cpp",
+      "initializer_list": "cpp",
+      "iterator": "cpp",
+      "map": "cpp",
+      "string": "cpp",
+      "string_view": "cpp",
+      "vector": "cpp",
+      "ios": "cpp",
+      "atomic": "cpp",
+      "system_error": "cpp",
+      "algorithm": "cpp",
+      "chrono": "cpp",
+      "stack": "cpp",
+      "utility": "cpp",
+      "memory": "cpp"
+   }
+}

@@ -1,0 +1,7 @@
+cirr tests.fraig/sim06.aag -r
+cirg 2625 -fanin 5
+cirg 2625 -fanout 5
+#cirsim -f tests.fraig/pattern.06
+cirg 2625 -fanin 5
+cirg 2625 -fanout 5
+cirg 2625
